@@ -13,4 +13,11 @@ video game.
 with matches, warped image, and stitched image are written.
 6. To run the code, open main.cpp file with CodeBlocks, provide the right paths for the two
 images, and click on the build and run button.
+
 ![](images/Hill1.jpg) ![](images/Hill2.jpg)
+
+![](output_images/img1_keypoints.jpeg) ![](output_images/img2_keypoints.jpeg)
+
+![](output_images/goodmatches.jpeg)
+
+![](output_images/Stitched.jpeg)
